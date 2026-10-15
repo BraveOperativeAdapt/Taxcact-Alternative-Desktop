@@ -1,6 +1,6 @@
 # Taxcact Alternative Desktop
 
-Local-first Windows worksheets that decide whether a household still fits [TaxAct Free File](https://github.com/topics/taxact-free-file) — IRS Free File delivered by TaxAct — **before** anyone opens taxact.com.
+Local-first Windows worksheets that decide whether a household still fits [TaxAct Free File](https://github.com/topics/taxact-free-file) — IRS Free File delivered by TaxAct — **before** anyone opens taxact.com. 
 
 Canonical topic: [github.com/topics/taxact-free-file](https://github.com/topics/taxact-free-file). Official hop: [IRS Free File](https://www.irs.gov/e-file-do-your-taxes-for-free). This repository is not affiliated with TaxAct Holdings, Inc. It does not e-file and it does not reuse a TaxAct password.
 
